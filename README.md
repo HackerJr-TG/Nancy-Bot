@@ -6,7 +6,7 @@
   Nancy Bot <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;
 </p>
 
-<h1 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ɴᴀɴᴄʏ+ʙᴏᴛ+!;ᴇᴅɪᴛɪɴɢ+ʙʏ+ʜᴀᴄᴋᴇʀ+ᴊʀ+!;ᴀ+sɪᴍᴘʟᴇ+ᴀɴᴅ+ᴘᴏᴡᴇʀꜰᴜʟ+ʙᴏᴛ!;ɪɴᴅᴇxᴇs+ꜰɪʟᴇs+ᴀʙᴏᴜᴛ+4ɢʙ+ᴀ+ʙᴏᴛ+ᴡɪᴛʜ+ᴅᴏᴜʙʟᴇ+ʙᴜᴛᴛᴏɴ!;sᴛᴀʀᴛ+ᴍᴇssᴀɢᴇ+ᴡɪᴛʜ+ᴘɪᴄ+ᴀɴᴅ+ᴍᴏʀᴇ+ꜰᴇᴀᴛᴜʀᴇs!)
+<h1![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ɴᴀɴᴄʏ+ʙᴏᴛ+!;ᴇᴅɪᴛɪɴɢ+ʙʏ+ʜᴀᴄᴋᴇʀ+ᴊʀ+!;ᴀ+sɪᴍᴘʟᴇ+ᴀɴᴅ+ᴘᴏᴡᴇʀꜰᴜʟ+ʙᴏᴛ!;ɪɴᴅᴇxᴇs+ꜰɪʟᴇs+ᴀʙᴏᴜᴛ+4ɢʙ+ᴀ+ʙᴏᴛ+ᴡɪᴛʜ+ᴅᴏᴜʙʟᴇ+ʙᴜᴛᴛᴏɴ!;sᴛᴀʀᴛ+ᴍᴇssᴀɢᴇ+ᴡɪᴛʜ+ᴘɪᴄ+ᴀɴᴅ+ᴍᴏʀᴇ+ꜰᴇᴀᴛᴜʀᴇs!)
 </p>   
 
 
