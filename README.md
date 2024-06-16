@@ -3,10 +3,10 @@
   <img src="https://telegra.ph/file/c13393262ab2c755d5519.jpg" alt="Cloned Repo Of Nancy Bot Logo">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
-  𝓝𝓪𝓷𝓬𝔂 𝓑𝓸𝓽 V3.5 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;
+  Nancy Bot <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ɴᴀɴᴄʏ+ʙᴏᴛ+ᴠ3.5!;ᴇᴅɪᴛɪɴɢ+ʙʏ+ʜᴀᴄᴋᴇʀ+ᴊʀ+!;ᴀ+sɪᴍᴘʟᴇ+ᴀɴᴅ+ᴘᴏᴡᴇʀꜰᴜʟ+ʙᴏᴛ!;ɪɴᴅᴇxᴇs+ꜰɪʟᴇs+ᴀʙᴏᴜᴛ+4ɢʙ+ᴀ+ʙᴏᴛ+ᴡɪᴛʜ+ᴅᴏᴜʙʟᴇ+ʙᴜᴛᴛᴏɴ!;sᴛᴀʀᴛ+ᴍᴇssᴀɢᴇ+ᴡɪᴛʜ+ᴘɪᴄ+ᴀɴᴅ+ᴍᴏʀᴇ+ꜰᴇᴀᴛᴜʀᴇs!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ɴᴀɴᴄʏ+ʙᴏᴛ+!;ᴇᴅɪᴛɪɴɢ+ʙʏ+ʜᴀᴄᴋᴇʀ+ᴊʀ+!;ᴀ+sɪᴍᴘʟᴇ+ᴀɴᴅ+ᴘᴏᴡᴇʀꜰᴜʟ+ʙᴏᴛ!;ɪɴᴅᴇxᴇs+ꜰɪʟᴇs+ᴀʙᴏᴜᴛ+4ɢʙ+ᴀ+ʙᴏᴛ+ᴡɪᴛʜ+ᴅᴏᴜʙʟᴇ+ʙᴜᴛᴛᴏɴ!;sᴛᴀʀᴛ+ᴍᴇssᴀɢᴇ+ᴡɪᴛʜ+ᴘɪᴄ+ᴀɴᴅ+ᴍᴏʀᴇ+ꜰᴇᴀᴛᴜʀᴇs!)
 </p>   
 
 
@@ -62,10 +62,7 @@ Use these settings when adding a monitor:</b>
 <hr>
 
 ## Credits 
-* <a href="https://telegram.dog/hacker_jr"><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"></a><a
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Joelkb)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
